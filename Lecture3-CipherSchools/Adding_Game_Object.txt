@@ -1,0 +1,10 @@
+We can add game object by left clicking in the SampleScene and then go to 3D then select the object
+By double click on cube we can go in inspector mode
+In inspector mode, we can change the position of the cube, rotate it and also scale it.
+
+By mouse scroll we can zoom in and out (alt + holding RMB)
+By holding right click we can view things around us by moving the mouse (Can do the same with alt + holding LMB)
+By using Rotate Tool we can rotate the cube
+Scale Tool help us in scaling the game object
+
+We also added Materials

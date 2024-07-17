@@ -1,0 +1,48 @@
+Install the Unity Hub
+System requirements
+The Unity Hub supports the following Operating Systems:
+
+Windows 7 SP1+, 8, 10 (64-bit versions), 11
+macOS X 10.13+
+CentOS 7
+Rocky
+Ubuntu 18.04, 20.04, 22.04
+Note: Unity supports Apple Silicon machines (M1 machines), and you can install Apple Silicon Unity Editors through the Unity Hub. For more information, go to the Installing the native Apple silicon Editor forum page. Additionally, Unity will no longer support Windows 7 after the 2023.1 release. Unity recommends upgrading to a supported operating system for the 2023.1 release.
+
+Use the installer
+To install the Unity Hub, do the following:
+
+1) Go to the Download Unity page on the Unity website.
+2) Select Download Unity Hub.
+3) Open the installer file.
+4) Follow the instructions in the Unity Hub setup window.
+5) When you install the Unity Hub for the first time, the Unity Hub runs and opens the welcome page. To continue to navigate the application, you need to either sign in with your Unity ID 2) or, if you don’t have an existing account, select Create Unity ID to create a new account.
+
+Note: When you launch the Unity Hub for the first time, it might prompt you to give it access to some of your file system locations or allow its connections through the firewall. Accept those requests to help the Unity Hub access your projects and Editor installations and to give it the ability to fetch resources from cloud servers.
+
+
+
+Installing Unity Hub on Windows:
+Follow the below steps to install Unity Hub on Windows:
+
+Step 1: Visit the official Unity Website and download the installer using any web browser. 
+
+Step 2: Click on Download Unity Hub, downloading of the executable file will start shortly. It is a small 51.59 MB file that will hardly take a minute.
+
+Step 3: Now check for the executable file in downloads in your system and run it.
+
+Step 4: It will prompt confirmation to make changes to your system. Click on Yes.
+
+Step 5: The next screen will be of License Agreement, click on I Agree.
+
+Step 6: The next screen will be of installing location so choose the drive which will have sufficient memory space for installation. choose installing location
+
+Step 7: After this installation process will start and will hardly take a minute to complete the installation. 
+
+Step 8: Click on Finish after the installation process is complete.
+
+Step 9: Unity Hub is successfully installed on the system and an icon is created on the desktop.
+
+Step 10: Run the software and see the interface.
+
+Congratulations!! At this point, you have successfully installed Unity Hub on your Windows system.

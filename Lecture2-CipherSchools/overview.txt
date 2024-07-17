@@ -1,0 +1,3 @@
+In this video we learned about the editor.
+Learned to customize the editor for making the most out of it and getting more efficiency.
+Learned about Scene and Game.
